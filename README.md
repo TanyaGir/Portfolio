@@ -19,9 +19,12 @@ In order to view these files you must have a
 
 ## With the above steps done  
 1) You can access the files from [ this Github link ]( https://github.com/TanyaGir/Portfolio )
-2) Open your web browser and run the file Myportfolio.html in the browser to view the Portfolio page.  
-3) You can try to click on the bottom 3 pictures named Appify,Forest and Book to be able to see the Modal functionality , i.e., Pop up windows.  
-4) You can also resize the browser window to see the responsiveness of the page on different viewports.
+2) Open your web browser and run the file Myportfolio.html in the browser to view the Portfolio page.
+3) The layout of the page has been done by implementing Bootstrap grid based layout.
+4) You can click on the bottom 3 images on the page with the names Appify , Netshop, Webstore in order to see the Modal functionality , i.e., Pop up windows.  
+5) You can also resize the browser window to see the responsiveness of the page on different viewports.
+6) I have also included a link with the name 'Projects' , which if clicked opens a dropdown menu of the different projects. This is done with the help of Bootstrap built-in menu dropdown functionality.
+7) The images also become larger in size when you hover over them. This was done using CSS transform scale property.
 
 ## Built With    
 1) HTML5   
